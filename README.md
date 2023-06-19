@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+in this project I:
+
+Discover the react-router-dom library and use its main resources
+I learned what it is and why to use a SPA (Single Page Application)
+Solved problems using nested routes and dynamic routes
+I explored react-router-dom hooks such as useLocation and useParams
+Implemented practical challenges.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
